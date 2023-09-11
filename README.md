@@ -15,13 +15,19 @@ Key Features:
 
 📂 Organized Data: Easily access and manage healthcare data with structured dimensions including Patients, Services, Episodes, and Date. 
 ![Data Flow For Dimentions - Overview](https://github.com/Abdullah28-gheyad/HealthCare-DataWareHosue/blob/main/Screenshot%202023-09-10%20225008.png)
+
+
 🔒 Data Security: Your data's security is our top priority. We've implemented rigorous security measures to ensure compliance with healthcare data regulations.
 
 📈 Analytics: Perform insightful data analysis with our Fact Billings table, helping you make data-driven decisions.
 
 🛠️ ETL with SSIS: Our project comes with SSIS packages for seamless data ETL, making it a breeze to integrate your data sources.
 ![Data Flow For Fact Table - Overview](https://github.com/Abdullah28-gheyad/HealthCare-DataWareHosue/blob/main/Screenshot%202023-09-10%20225619.png)
+
+
 ![Control Flow For Project - Overview](https://github.com/Abdullah28-gheyad/HealthCare-DataWareHosue/blob/main/Run%20Success.png)
+
+
 Getting Started:
 
 Clone this Repository: Get started by cloning this repo to your local machine.
