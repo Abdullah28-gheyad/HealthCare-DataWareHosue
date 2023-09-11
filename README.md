@@ -31,3 +31,6 @@ Remember, data integration is not just about moving data; it's about unlocking v
 
 #SSIS #DataIntegration #SQLServer #Analytics #ETL #DataMigrations #DataManagement #LinkedInPost
 
+![Dataset Schema Overview](https://github.com/3amory99/Telecom-ETL-Using-SSIS/blob/master/images/dataset%20structure.png
+)
+
